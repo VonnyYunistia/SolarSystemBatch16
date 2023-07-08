@@ -9,7 +9,7 @@ public class Main {
 
         FeatureSun AdamX= new FeatureSun();
         AdamX.Name="Poyo";
-        AdamX.Temp=33344566 Celcius;
+        AdamX.Temp="33344566 Celcius";
         AdamX.Size="32942Km";
 
     }
