@@ -12,5 +12,11 @@ public class Main {
         AdamX.Temp="33344566 Celcius";
         AdamX.Size="32942Km";
 
+        Planet2 Halima= new Planet2();
+        Halima.size="4444KM";
+        Halima.color="Pink";
+        Halima.name="Cican";
+        Halima.temp="555666 Celcius";
+
     }
 }
