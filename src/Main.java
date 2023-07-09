@@ -12,5 +12,11 @@ public class Main {
         AdamX.Temp="33344566 Celcius";
         AdamX.Size="32942Km";
 
+        Planet1 xeon = new Planet1();
+        xeon.name="reon";
+        xeon.color="blue";
+        xeon.size="1km";
+        xeon.temp="6666 Celcius";
+
     }
 }
